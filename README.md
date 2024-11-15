@@ -65,6 +65,6 @@ Frome Android 👾 Seek knowledge and impart it 🔥
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
 
-###
+
+
