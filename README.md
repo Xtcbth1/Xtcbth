@@ -1,7 +1,7 @@
 # Xtcbth
 Frome Android 👾 Seek knowledge and impart it 🔥
 <div align="center">
-  <img height="150" src="https://drive.google.com/file/d/1D-ddx8Z6sENXQVtHPlt9EaJ5mXSrlPlW/view?usp=drivesdk"  />
+  <img height="150" src="file:///C:/Users/xtcbt/OneDrive/Pictures/maxresdefault.jpg" />
 </div>
 
 ###
